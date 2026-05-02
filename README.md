@@ -1,0 +1,2 @@
+# pythonwork
+Practicing python
